@@ -13,6 +13,7 @@
     "check:prettier": "prettier --check .",
     "check:eslint": "eslint ."
   },
+  "packageManager": "pnpm@11.25.0",
   "devDependencies": {
     "@types/node": "^26.6.5",
     "cspell": "^10.4.0",
